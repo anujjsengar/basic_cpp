@@ -1,0 +1,8 @@
+------------------->CPP<----------------
+
+------>Datatype: 5 type primitive
+            ------->int (4B--32Bit)
+            ------->float(4B -- 32 Bit)
+            ------->bool (1B)
+            ------->char(1B) ASCIIas stored
+            ------->double(8B--64 bits)
