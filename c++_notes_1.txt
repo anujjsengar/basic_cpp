@@ -1,8 +1,30 @@
 ------------------->CPP<----------------
 
 ------>Datatype: 5 type primitive
-            ------->int (4B--32Bit)
+            ------->int (4B--32Bit)(2's complement) -2^31-1  to 2^31-1;
             ------->float(4B -- 32 Bit)
             ------->bool (1B)
             ------->char(1B) ASCIIas stored
             ------->double(8B--64 bits)
+
+
+
+------->Access Modifers
+            -------> unsigned (0 to 2^32--Integer) 
+            -------> signed   (Default)
+            -------> long  (long int >= int)(16B ,8B, 4B)
+            -------> short (short int <=int)(4B, 2B,1B)
+
+
+
+-------->Operators
+            ------->Unary(Apply on single operator);
+            ------->Arithmatic(+,-,/,*,%)
+            ------->Assignment(=)
+            ------->Relation(True or fakse result) (==,!=,>,<,>=,<=)
+
+
+-------->Logical Operator
+            ------->Logical And(&&);
+            ------->Logical or(||);
+            ------->Logical Not(!);
